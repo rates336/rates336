@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rates336 and my name is Karol
 - 👀 I’m interesting chess, programming and economy
-- 🌱 I’m currently learning mostly java and python
-- 🌃 Currenly I working in my company and I making orders online, company nr/NIP: 5342649746
+- 🌱 I’m currently mostly learning java and python
+- 🌃 Currenly I working in my company and I made orders online, company nr/NIP: 5342649746
 - 📫 How to reach me? Write or call on discord: rates336#2104 or if you want wait more time you can also write on my email ilearninghere.karol@gmail.com, but I prefer contact by discord. If you want contact for bussines case you can also write on email: wspolpraca@dtc24experts.com
 
 <!---
